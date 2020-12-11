@@ -6,3 +6,6 @@ ARP (Address Resolution Protocol)
 RARP (Reverse Address Resolution Protocol)
 
 # Sliding Window Protocol Simulation
+* Go-Back-N ARQ
+* Stop and Wait Protocol without timeout
+* stop and Wait protocol with timeout
